@@ -1,6 +1,8 @@
 # 👋 Hi, I’m Kenan
 Former **SAS Commando** in the **Turkish Naval Forces**, 
+
 Aspiring **Software Developer | Frontend & Web Technologies**, 
+
 Career Transsition: Military --> Technology
 
 
