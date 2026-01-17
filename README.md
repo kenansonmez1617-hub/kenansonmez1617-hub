@@ -1,11 +1,9 @@
 # 👋 Hi, I’m Kenan
-Former **SAS Commando** in the **Turkish Naval Forces**, 
+Former **SAS Commando** in the **Turkish Naval Forces**,
 
-Aspiring **Software Developer | Frontend & Web Technologies**, 
+Aspiring **Software Developer | Frontend & Web Technologies**,
 
-Career Transsition: Military --> Technology
-
-
+Career Transsition :  Military --> Technology
 
 <!--
 **kenansonmez1617-hub/kenansonmez1617-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
