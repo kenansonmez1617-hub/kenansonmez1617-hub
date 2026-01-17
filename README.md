@@ -44,7 +44,7 @@ To combine my "Navy discipline and leadership background" with modern "software 
 
 Connect With Me :
 
-LinkdIn : Kenan Sönmez
+Linkdin : Kenan Sönmez
 
 <!--
 **kenansonmez1617-hub/kenansonmez1617-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
