@@ -1,4 +1,4 @@
-## Hi there 👋
+# 👋 Hi, I’m Kenan
 
 <!--
 **kenansonmez1617-hub/kenansonmez1617-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
