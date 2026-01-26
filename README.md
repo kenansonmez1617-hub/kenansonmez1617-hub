@@ -1,5 +1,7 @@
 Hi, I’m Kenan
+
 🚀 From Elite Naval Operations to Frontend Development — building disciplined, scalable, and user-focused web experiences.
+
 🧭 Background
 
 Former SAS Commando in the Turkish Naval Forces, currently transitioning into the Software Development field with a focus on Frontend & Web Technologies.
