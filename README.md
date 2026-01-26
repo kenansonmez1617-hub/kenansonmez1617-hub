@@ -108,5 +108,5 @@ To combine my naval discipline and leadership background with modern software de
 
 💼 LinkedIn: https://www.linkedin.com/in/kenan-sönmez-685445281
 
-⭐ Thanks for visiting my GitHub profile!profile!
+⭐ Thanks for visiting my GitHub profile!
 
