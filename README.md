@@ -1,60 +1,74 @@
 # 👋 Hi, I’m Kenan
-Former "SAS Commando" in the "Turkish Naval Forces",
 
-Aspiring "Software Developer | Frontend & Web Technologies",
+## 🧭 Background
 
-Career Transsition :  Military --> Technology
+Former **SAS Commando** in the **Turkish Naval Forces**, currently transitioning into the **Software Development** field with a focus on **Frontend & Web Technologies**.
 
-About Me :
+**Career Transition:** Military ➜ Technology
 
-I served as a "SAS Commando within the Turkish Naval Forces", where I also held several leadership roles, including:
-- Special Diving Team Commander,
-- Coastal Surveillance Station Commander,
-- Security & Guard Platoon Commander,
-- Acting Barracks Commander.
+---
 
-Throughout my navy career, I Developed strong skills in "discipline, leadership, problem-solving, analytical thinking and decision-making under pressure"
+## 🪖 About Me
 
-I am now transitioning into the "Software Development Field" focusing on "Frontend and Web Tecnologies", where structured thinking, attention to detail and continuous learning are essential.
+I served as a **SAS Commando** within the **Turkish Naval Forces**, where I held multiple leadership and command roles, including:
 
-## Tech Stack & Skills
+* Special Diving Team Commander
+* Coastal Surveillance Station Commander
+* Security & Guard Platoon Commander
+* Acting Barracks Commander
 
-### Technologies :
-- HTML,
-- CSS,
-- JavaScript,
-- Git & GitHub,
-- Web Development.
+Throughout my naval career, I developed strong skills in:
 
-### Transferable Skills :
-- Problem Solving,
-- Analytical Thinking,
-- Leadership & Team Management,
-- Continuous Learning.
-  
-## What I’m Working On :
-- Building responsive web pages with "HTML & CSS",
-- Improving JavaScript fundamentals,
-- Devoloping frontend projects,
-- Using Git & GitHub for version control,
-- Learning modern frontend practices step by step,
-  
-## Career Goal :
-To combine my "Navy discipline and leadership background" with modern "software development skills" and build a sustainable career in the "technology sector" as a Frontend / Web Developer.
+* Discipline & responsibility
+* Leadership & team management
+* Problem-solving under pressure
+* Analytical thinking & decision-making
 
-Connect With Me :
+I am now transitioning into the **Software Development field**, focusing on **Frontend and Web Technologies**, where structured thinking, attention to detail, and continuous learning are essential.
 
-Linkdin : www.linkedin.com/in/kenan-sönmez-685445281
+---
 
-<!--
-**kenansonmez1617-hub/kenansonmez1617-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech Stack & Skills
 
-Here are some ideas to get you started:
+### 💻 Technologies
 
-- 🔭 I’m currently working on "just one more feature"
-- 🌱 I’m currently learning front-end development;
-- 👯 I’m looking to collaborate on business development opportunities.
-- 🤔 I’m looking for help with professional advice.
-- 💬 Ask me about my professional experience about diving and my jorney in software development.
-- ⚡ Fun fact: I write bugs in one language and fix them in another.
--->
+* HTML5
+* CSS3 (Flexbox, Grid, Responsive Design)
+* JavaScript (ES6+)
+* Git & GitHub
+* Web Development Fundamentals
+
+### 🔄 Transferable Skills
+
+* Problem Solving
+* Analytical Thinking
+* Leadership & Team Management
+* Discipline & Time Management
+* Continuous Learning Mindset
+
+---
+
+## 🚧 What I’m Currently Working On
+
+* Building responsive web pages with **HTML & CSS**
+* Improving **JavaScript fundamentals**
+* Developing **frontend-focused projects**
+* Using **Git & GitHub** for version control
+* Learning modern frontend practices step by step
+
+---
+
+## 🎯 Career Goal
+
+To combine my **naval discipline and leadership background** with modern **software development skills**, and build a sustainable career in the **technology sector** as a **Frontend / Web Developer**.
+
+---
+
+## 📫 Connect With Me
+
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/kenan-sönmez-685445281](https://www.linkedin.com/in/kenan-sönmez-685445281)
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
+
